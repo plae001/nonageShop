@@ -14,7 +14,7 @@
                   <label>User ID</label>
                   <input name="id" type="text" value="${id}"><br>
                   <label>Password</label>
-                  <input name="pwd" type="password" value=""><br>
+                  <input name="pwd" type="password" value="${pwd}"><br>
                 </fieldset>
                 <div class="clear"></div>
                 <div id="buttons">

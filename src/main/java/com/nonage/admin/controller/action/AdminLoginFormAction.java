@@ -1,12 +1,12 @@
 package com.nonage.admin.controller.action;
 
-import com.nonage.controller.action.Action;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import com.nonage.controller.action.Action;
 
 public class AdminLoginFormAction implements Action {
 
